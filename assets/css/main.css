@@ -1,0 +1,44 @@
+#rock{
+    color:royalblue
+}
+#paper{
+    color: crimson;
+}
+#scissor{
+    color:teal;
+}
+.hide{
+    display: none;
+}
+#result{
+    font-size: 7vw; 
+    padding: 3
+    %;
+}
+.result{
+    text-align: center;
+}
+.result img{  
+    padding: 20px;
+    width: 20%;
+}
+.container img{
+    width:25%;  
+    padding: 5%;
+}
+#vs{
+    font-size: 4vw;
+    font-weight: bolder;
+}
+main{
+    width: 80%;
+    margin-left:12%;
+    margin-top: 15vh;
+}
+h1{
+    text-align: center;
+}
+.container{
+    margin-top: 5vh;
+    text-align: center;
+}
